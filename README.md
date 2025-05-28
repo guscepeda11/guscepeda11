@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guscepeda11
-- 👀 I’m interested in investing, cybersecurity and entrepreneurship. 
+- 👀 I’m interested in healthcare, investing, cybersecurity and entrepreneurship. 
 - 🌱 I’m currently learning Python, Machine Learning, Advanced statistics, and cybersecurity..
 - 💞️ I’m looking to collaborate on financial modeling, quantitative investing, marketing analytics, Crypto and Privacy/InfoSec.
 - 📫 How to reach me you can follow me on twitter @guscepeda11
